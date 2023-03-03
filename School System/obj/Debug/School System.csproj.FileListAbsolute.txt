@@ -1,0 +1,108 @@
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\School System.exe.config
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\School System.exe
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\School System.pdb
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\RestSharp.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Buffers.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.CodeDom.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Data.Odbc.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Data.OleDb.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Drawing.Common.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.IO.Packaging.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.IO.Ports.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Memory.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Permissions.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Олег\source\repos\School System\School System\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.AssemblyReference.cache
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Login.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Properties.Resources.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.Fody.CopyLocal.cache
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.csproj.CopyComplete
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.exe
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School System.pdb
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Students.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Attendances.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Teachers.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Events.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Fees.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.MainMenu.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Dashboard.resources
+C:\Users\Олег\source\repos\School System\School System\obj\Debug\School_System.Registration.resources
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\School System.exe.config
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\School System.exe
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\School System.pdb
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\RestSharp.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Buffers.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.CodeDom.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Data.Odbc.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Data.OleDb.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Drawing.Common.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.IO.Packaging.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.IO.Ports.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Memory.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Permissions.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Олегатор\Desktop\School System\School System\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.AssemblyReference.cache
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Attendances.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Dashboard.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Events.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Fees.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Login.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.MainMenu.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Properties.Resources.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Registration.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Students.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School_System.Teachers.resources
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.GenerateResource.cache
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.CoreCompileInputs.cache
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.Fody.CopyLocal.cache
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.csproj.CopyComplete
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.exe
+C:\Users\Олегатор\Desktop\School System\School System\obj\Debug\School System.pdb

@@ -1,0 +1,10 @@
+C:\Users\Олегатор\Desktop\School System\Module\bin\Debug\Module.dll
+C:\Users\Олегатор\Desktop\School System\Module\bin\Debug\Module.pdb
+C:\Users\Олегатор\Desktop\School System\Module\bin\Debug\School System.exe
+C:\Users\Олегатор\Desktop\School System\Module\bin\Debug\School System.pdb
+C:\Users\Олегатор\Desktop\School System\Module\bin\Debug\School System.exe.config
+C:\Users\Олегатор\Desktop\School System\Module\obj\Debug\Module.csproj.AssemblyReference.cache
+C:\Users\Олегатор\Desktop\School System\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+C:\Users\Олегатор\Desktop\School System\Module\obj\Debug\Module.csproj.CopyComplete
+C:\Users\Олегатор\Desktop\School System\Module\obj\Debug\Module.dll
+C:\Users\Олегатор\Desktop\School System\Module\obj\Debug\Module.pdb
